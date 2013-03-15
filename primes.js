@@ -8,3 +8,5 @@ for (var i = 2; i < num; i++){
         num /= i;
     }
 }
+primes[j] = num;
+console.log(primes);
